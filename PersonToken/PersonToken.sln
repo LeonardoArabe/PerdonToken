@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonToken", "PersonToken\PersonToken.csproj", "{1B8DD6D6-2698-4999-9C4B-900B78E58128}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebToken", "WebToken\WebToken.csproj", "{0E27E4E3-0941-427A-8867-1784E5F08873}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPersonToken", "WebToken\WebPersonToken.csproj", "{0E27E4E3-0941-427A-8867-1784E5F08873}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
